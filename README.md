@@ -17,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aashish shukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aashish shukla" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/aashish shukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="aashish shukla" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aashish-kumar-shukla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aashish shukla" height="30" width="40" /></a>
+<a href="[https://stackoverflow.com/users/aashish shukla](https://stackoverflow.com/users/20889513/aashish-shukla)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="aashish shukla" height="30" width="40" /></a>
 <a href="https://instagram.com/aashish._shukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aashish._shukla" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@shuklaaashish90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@shuklaaashish90" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aashishshukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aashishshukla" height="30" width="40" /></a>
